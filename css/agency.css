@@ -611,6 +611,10 @@ li.socials-list > a {
     vertical-align: text-bottom;
 }
 
+.fas.fa-street-view {
+    color: #fff;
+}
+
 section#contact .form-group {
   margin-bottom: 25px;
 }
