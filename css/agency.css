@@ -605,6 +605,12 @@ section#contact .section-heading {
   color: #fff;
 }
 
+li.socials-list > a {
+    color: #fff;
+    padding: 5px;
+    vertical-align: text-bottom;
+}
+
 section#contact .form-group {
   margin-bottom: 25px;
 }
